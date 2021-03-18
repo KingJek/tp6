@@ -1,2 +1,2 @@
 # tp6
-AJAX Recipe
+Tiny Project 6 for DTC 477
